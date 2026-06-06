@@ -1,0 +1,182 @@
+{
+  "title": "Guia e FAQ: Doutorado e Mestrado Sanduíche na Itália (CAPES/PDSE/PRINT/FAPs)",
+  "sections": [
+    {
+      "title": "1. Visto e Burocracia Consular",
+      "faqs": [
+        {
+          "question": "O que é necessário para solicitar o Visto de Estudante na Itália?",
+          "answers": [
+            "Cidadãos brasileiros que viajam para a Itália por períodos inferiores a 90 dias não precisam de visto de entrada. Para estadias superiores a 3 meses, o visto de estudo (Tipo D) é obrigatório e deve ser solicitado presencialmente no consulado italiano da sua região.",
+            "O agendamento em São Paulo e alguns outros estados é feito pelo portal online Prenot@Mi. Em Recife, o contato inicial deve ser por e-mail (visti.recife@esteri.it) detalhando os dados pessoais, motivos e prazos.",
+            "Os prazos variam por localidade: em Curitiba, há relatos de aprovação no mesmo dia da entrevista presencial; em São Paulo, o tempo médio de devolução do passaporte gira em torno de 2 a 3 semanas. A entrevista ocorre em português.",
+            "Documentação básica exigida: Formulário de Visto Nacional preenchido (recomenda-se marcar a opção de visto múltiplo para garantir trânsito livre pelo Espaço Schengen), 2 fotos tamanho 3,5x4,5 coloridas e recentes, e passaporte válido com pelo menos 1 ano de validade.",
+            "Documentos de apoio: comprovante de residência no Brasil (em nome do requerente - caso resida com terceiros, apresentar declaração de moradia com firma reconhecida em cartório), Termo de Outorga/Concessão da bolsa CAPES, carta-convite oficial da universidade em papel timbrado, passagem de ida e volta, seguro de saúde e comprovante de estadia inicial.",
+            "A taxa consular é de 50 euros, paga em reais conforme o câmbio do dia, e exige pagamento exclusivamente em cartão de DÉBITO.",
+            "Mantenha cópias impressas de tudo o que entregar (passaporte completo, carta convite, seguro saúde e Codice Fiscale) para conferências na imigração."
+          ]
+        },
+        {
+          "question": "É obrigatório comprar a passagem aérea antes da aprovação do visto?",
+          "answers": [
+            "Sim, a grande maioria dos consulados exige o comprovante de passagem de ida e de volta para períodos totais menores que 12 meses.",
+            "Como a CAPES demora para transferir o auxílio de deslocamento, uma alternativa popular e aceita é fazer uma reserva temporária da passagem. A TAP, por exemplo, permite segurar uma reserva de voo por até 10 dias sem necessidade de pagamento imediato, servindo para apresentação na entrevista consular.",
+            "Se na reserva inicial você apontar uma conexão específica (ex: via Madri para chegar em Milão), tente manter o mesmo roteiro nas passagens finais, ou guarde todos os bilhetes extras caso faça baldeação terrestre após a chegada na Europa."
+          ]
+        },
+        {
+          "question": "Como funciona a exigência do Universitaly e da Carta Convite?",
+          "answers": [
+            "A obrigatoriedade do pré-cadastro no portal Universitaly varia conforme a jurisdição do consulado - São Paulo e Curitiba frequentemente exigem o resumo de inscrição impresso. Instituições como a Università La Sapienza de Roma também exigem o trâmite pelo Universitaly.",
+            "Muitos doutorandos/mestrandos em sanduíche configuram-se como pesquisadores visitantes ('Visiting PhD Student' / acordo cultural) e não farão disciplinas valendo créditos de diploma na Itália. Nesses casos, o Universitaly pode não ser aplicável.",
+            "Se for esse o seu caso, garanta que o supervisor na Itália envie uma carta de aceite formal do Welcome Office ou da direção do Departamento em papel timbrado, indicando claramente o status de pesquisador visitante. Recomenda-se alinhar com o supervisor estrangeiro ou com o escritório de estudantes internacionais para obter o passo a passo da homologação interna."
+          ]
+        },
+        {
+          "question": "Quais os critérios aceitos para hospedagem provisória?",
+          "answers": [
+            "Para a concessão do visto, os consulados não exigem contrato de aluguel definitivo de longa duração. Aceitam-se reservas de hotéis, hostels, Airbnb ou alojamentos provisórios (como conventos) cobrindo os primeiros 15 a 25 dias de estadia. Recomenda-se escolher opções que permitam cancelamento gratuito.",
+            "Evite fechar contratos longos e definitivos de aluguel enquanto estiver no Brasil, devido ao grande número de golpes (falsos anúncios em grupos de Facebook e sites abertos). Hospede-se provisoriamente e visite os apartamentos pessoalmente antes de pagar depósitos ('caparras')."
+          ]
+        },
+        {
+          "question": "Posso levar cônjuge ou parceiro com visto de acompanhante?",
+          "answers": [
+            "Não existe uma categoria de visto de cônjuge ou dependente vinculado diretamente ao bolsista de doutorado-sanduíche.",
+            "O parceiro pode viajar inicialmente como turista (permanecendo legalmente por até 90 dias) e, uma vez em território italiano, tentar dar entrada no processo de Permesso por Reagrupamento Familiar.",
+            "Outra alternativa é o parceiro obter um vínculo acadêmico institucional - algumas universidades possuem programas de pesquisadores visitantes sem custo e sem bolsa -, gerando uma carta de convite para emissão de um visto próprio de estudos."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. Codice Fiscale",
+      "faqs": [
+        {
+          "question": "O que é o Codice Fiscale e como adquiri-lo?",
+          "answers": [
+            "O Codice Fiscale é o equivalente ao CPF brasileiro na Itália, sendo estritamente necessário para alugar imóvel, fazer cartões de transporte, matricular-se na universidade, entre outros.",
+            "Pode e deve ser retirado ainda no Brasil, de forma gratuita. Envie e-mail ao consulado italiano da sua região com o formulário de solicitação preenchido, cópia do passaporte e comprovante de endereço. O documento costuma ser gerado e retornado no mesmo dia, muitas vezes online.",
+            "Caso prefira retirar na Itália, será necessário agendar previamente no site da Agenzia delle Entrate e comparecer presencialmente com o passaporte."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "3. Chegada e Permesso di Soggiorno",
+      "faqs": [
+        {
+          "question": "Qual o procedimento e prazos para tirar o Permesso di Soggiorno?",
+          "answers": [
+            "O Permesso di Soggiorno é o documento legal de residência na Itália. Com visto de estudo Tipo D (para mais de 90 dias), a lei italiana impõe a solicitação nos Correios (Poste Italiane) em até 8 dias úteis após o desembarque em território italiano.",
+            "Dirija-se a uma agência da Poste Italiane e solicite gratuitamente o 'Kit Giallo' (envelope com formulários de imigração).",
+            "Vá a uma tabacaria (Tabaccheria) e adquira uma Marca da Bollo no valor de 16,00 euros, pago obrigatoriamente em dinheiro físico.",
+            "Documentos a anexar ao kit: cópias de todas as páginas do passaporte (incluindo carimbo de entrada e visto de estudos), carta de aceite universitário, 4 fotos 3,5x4,5, seguro de saúde válido e Codice Fiscale.",
+            "Custos adicionais na entrega do kit: taxa pela versão eletrônica do Permesso (30,46€) + taxa administrativa (40,00€) + envio registrado (30,00€), totalizando aproximadamente 116€. Recomenda-se pagar em espécie para evitar acréscimos no cartão. Você receberá um recibo com a data do agendamento na Questura."
+          ],
+          "alert": "⚠️ Alerta de Conexão: Se o seu voo entrar na Europa por outro país do Espaço Schengen (ex: Portugal, Espanha, França) antes de voar para a Itália, você deve comparecer à Questura local em até 7 dias da chegada para preencher a 'Declaração de Presença', sob pena de sanções."
+        },
+        {
+          "question": "Posso viajar para outros países enquanto espero o Permesso definitivo?",
+          "answers": [
+            "Sim, é possível transitar e viajar para outros países portando o visto regular válido, o passaporte e o recibo (cedola) de postagem do kit entregue na Poste Italiane. Recomenda-se manter cópias digitais e físicas de toda a documentação comprobatória."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "4. Burocracia CAPES e Auxílios",
+      "faqs": [
+        {
+          "question": "Como é feito o pagamento das bolsas e auxílios de deslocamento?",
+          "answers": [
+            "Os pagamentos da bolsa passam pelo Banco do Brasil. Bolsistas com permanência total de até 6 meses recebem os valores integrais em conta corrente nacional nominal ao pesquisador. Bolsistas de longa duração (acima de 6 meses) recebem por meio de um cartão internacional pré-pago do BB Américas, enviado ao endereço residencial no Brasil antes do embarque.",
+            "A primeira remessa da CAPES contempla: Auxílio Deslocamento (passagens de ida e volta), Auxílio Instalação, Auxílio Seguro-Saúde (em cota única) e de 1 a 2 parcelas mensais antecipadas da bolsa.",
+            "O auxílio deslocamento é pago em cota única de valor fixo. Caso a passagem selecionada tenha valor superior ao auxílio, a diferença é por conta do estudante; se for menor, o saldo excedente permanece com o beneficiário.",
+            "Atenção aos cortes proporcionais: se a chegada à Itália ocorrer do dia 1º ao dia 15 do mês, a bolsa daquele mês cai integral. Se a chegada for no dia 16 ou depois - ou caso a saída da Itália ocorra antes do dia 15 no mês de retorno - o valor será cortado em 50% naquele mês."
+          ]
+        },
+        {
+          "question": "Quais burocracias do Linha Direta/SCBA preciso resolver com a CAPES?",
+          "answers": [
+            "PARA ATIVAÇÃO (Antes da Viagem): A CAPES envia e-mail de concessão pedindo assinatura eletrônica (Gov.br) do Termo de Outorga, que deve ser enviado no Linha Direta. Também serão exigidos: Procuração reconhecida em cartório (modelo disponível na plataforma) e declaração de suspensão da bolsa de pesquisa nacional (ex: CNPq, se aplicável).",
+            "APÓS A CHEGADA (Prazo de até 30 dias - envio via SCBA): Enviar foto do passaporte com visto de estudos, dados pessoais e carimbo aduaneiro de entrada na Europa; comprovante nominal e detalhado do seguro-saúde com o valor do prêmio pago; e cópia legível dos cartões de embarque (digitais ou físicos) somados ao recibo de pagamento do voo."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "5. Seguro Saúde e Medicações",
+      "faqs": [
+        {
+          "question": "Qual seguro saúde contratar e o que ele deve cobrir?",
+          "answers": [
+            "A CAPES exige apólice de seguro-saúde cobrindo todo o período da estadia, com cobertura mínima de 30.000 euros para despesas médicas, hospitalares, repatriação médica e funerária, além de cobertura para familiar (repatriação/visita) em caso de doença severa no exterior. O documento da apólice deve registrar o valor do prêmio pago.",
+            "Dois seguros frequentemente utilizados com bom custo-benefício são o Swisscare (plano Premium, com custo médio de 0,54€/dia, engloba especificamente as cláusulas C e J exigidas pela CAPES) e o Hero.",
+            "O Swisscare funciona em formato de reembolso - você paga consultas/medicamentos menores e recebe de volta na conta - e é amplamente aceito pelo consulado e pela Questura italiana. Os planos estudantis comumente não abrangem tratamentos psiquiátricos ou psicológicos.",
+            "Lembre-se de configurar a vigência do seguro cobrindo desde o dia de partida do Brasil até a data efetiva de retorno.",
+            "Dica extra (CDAM): Solicite no Brasil o formulário CDAM/PB4 gratuitamente pelo Gov.br para ter acesso ao sistema público de saúde italiano. Atenção: ele é apenas um complemento para o dia a dia e NÃO substitui o seguro privado, que continua obrigatório perante a CAPES e para fins de visto."
+          ]
+        },
+        {
+          "question": "Quais as regras e recomendações para transporte de remédios?",
+          "answers": [
+            "Farmácias italianas comercializam medicamentos comuns (como Ibuprofeno) sem receita apenas em dosagens baixas (até 400 mg). Dosagens maiores ou tratamentos contínuos exigem prescrição de médico local.",
+            "Recomenda-se montar uma necessaire de emergência com itens de uso habitual no Brasil que possuem restrições ou fórmulas diferentes na Itália: Dipirona (não comercializada livremente no país), Dorflex, relaxantes musculares, antigripais complexos (Cimegripe/Tylenol Sinus), anti-inflamatórios e reguladores de flora intestinal.",
+            "Para tratamentos contínuos ou medicamentos controlados, viaje com o estoque completo para o período e porte receitas atualizadas em português e inglês, acompanhadas das notas fiscais de compra."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "6. Finanças e Conversão de Moeda",
+      "faqs": [
+        {
+          "question": "Como otimizar o envio de dinheiro e as taxas internacionais?",
+          "answers": [
+            "Cartões digitais de viagem (fintechs como Wise e Nomad) são recomendados por possuírem conversão imediata, IOF reduzido e funcionam por aproximação em praticamente todo comércio italiano.",
+            "O uso da Wise é amplamente apontado como a maneira mais econômica de converter real em euro. A operação padrão direta para a própria titularidade desconta 1,1% de IOF. Caso o envio seja feito para a conta Wise de uma pessoa de extrema confiança, que então transfira internamente em euros para você, o imposto cai para 0,38%.",
+            "A Wise oferece isenção de tarifas de saque para quantias de até aproximadamente R$ 1.400,00 por mês. Prefira efetuar saques nos ATMs das agências da Poste Italiane, que não cobram taxas operacionais locais de saque."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "7. Moradia e Aluguel",
+      "faqs": [
+        {
+          "question": "Como buscar acomodação de forma segura e evitar golpes?",
+          "answers": [
+            "A busca por moradia é uma das etapas mais burocráticas e propensas a perfis falsos. Morar em uma 'stanza' (quarto individual ou duplo dividindo apartamento) é a rota mais barata e comum.",
+            "Inicie verificando murais, editais e indicações de alojamentos nos portais da própria universidade acolhedora. Sites de busca tradicionais incluem o Subito e o Immobiliare. Grandes centros contam com complexos universitários privados como a Camplus.",
+            "Acione as redes da ESN (Erasmus Student Network) da cidade de destino antes do embarque. É possível solicitar um 'buddy' (estudante voluntário local) para auxiliar no entendimento dos bairros, mercados e rotinas comerciais."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "8. Transporte, Viagens e Cotidiano",
+      "faqs": [
+        {
+          "question": "Quais aplicativos de transporte utilizar e como funcionam as regras de fiscalização?",
+          "answers": [
+            "Para rotas urbanas, utilize o Google Maps e o Citymapper, altamente preciso para horários integrados de trens, metrôs, ônibus e trams.",
+            "Para deslocamentos regionais de trem, use o aplicativo oficial da Trenitalia e cadastre-se gratuitamente no programa de acúmulo de pontos X-GO, que oferece cupons de desconto para trens regionais (não aplicável para Frecciarossa e Intercity).",
+            "A fiscalização de passagens nas redes municipais é frequente e rigorosa. Passageiros sem bilhete ou com bilhetes não validados nas máquinas físicas antes do embarque estão sujeitos a multas de 50 a 100 euros.",
+            "Usuários com assinatura mensal ou anual (abbonamento) não precisam validar o cartão a cada entrada. É possível emitir um atestado de perfil econômico estudantil (ISEE) nos escritórios do CAF italiano para baratear significativamente o passe de transporte anual.",
+            "Para deslocamentos interestaduais ou internacionais econômicos, as principais alternativas são Flixbus, Ryanair e Omio.",
+            "Atenção à segurança: grandes aglomerações e transportes movimentados (ônibus de Roma, estações da região de Milão) sofrem com frequentes casos de pickpockets. Atenção aos bolsos e evite se aglomerar próximo às portas dos veículos."
+          ]
+        },
+        {
+          "question": "Quais são as melhores dicas para chip de celular, encomendas e Tax Free?",
+          "answers": [
+            "Evite vincular planos de operadoras brasileiras, que possuem fidelidade alta e bloqueios após 30 dias fora do país. Na chegada, opte por eSIMs temporários (como 1GB grátis na GigSky via parcerias de cartões de crédito) ou adquira o plano físico Vodafone Travel por cerca de 8 euros em terminais de trânsito. A operadora Iliad é uma opção de baixo custo, embora apresente relatos isolados de oscilação em redes 5G.",
+            "Para entregas de e-commerce da Amazon em residências sem portaria, utilize o ecossistema de Lockers automatizados ou postos parceiros de coleta credenciados (bares e tabacarias) selecionados no checkout da compra.",
+            "Pessoas com visto de estudante podem solicitar o estorno de impostos (Tax Free) de itens duráveis adquiridos nos últimos 3 meses antes do retorno definitivo ao Brasil. O valor mínimo de despesa por nota fiscal na Itália é de 70 euros e requer formulário emitido pelo lojista, validado na alfândega do aeroporto de saída."
+          ]
+        }
+      ]
+    }
+  ]
+}
