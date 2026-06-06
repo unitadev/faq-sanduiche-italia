@@ -1,0 +1,31 @@
+{
+  "jurisdicoes": {
+    "BR-AC": { "consulado": "São Paulo", "site": "https://conssanpaolo.esteri.it/" },
+    "BR-AL": { "consulado": "Recife", "site": "https://consrecife.esteri.it/" },
+    "BR-AM": { "consulado": "Brasília", "site": "https://ambbrasilia.esteri.it/" },
+    "BR-AP": { "consulado": "Brasília", "site": "https://ambbrasilia.esteri.it/" },
+    "BR-BA": { "consulado": "Recife", "site": "https://consrecife.esteri.it/" },
+    "BR-CE": { "consulado": "Recife", "site": "https://consrecife.esteri.it/" },
+    "BR-DF": { "consulado": "Brasília", "site": "https://ambbrasilia.esteri.it/" },
+    "BR-ES": { "consulado": "Rio de Janeiro", "site": "https://consriodejaneiro.esteri.it/" },
+    "BR-GO": { "consulado": "Brasília", "site": "https://ambbrasilia.esteri.it/" },
+    "BR-MA": { "consulado": "Recife", "site": "https://consrecife.esteri.it/" },
+    "BR-MG": { "consulado": "Belo Horizonte", "site": "https://consbelohorizonte.esteri.it/" },
+    "BR-MS": { "consulado": "São Paulo", "site": "https://conssanpaolo.esteri.it/" },
+    "BR-MT": { "consulado": "São Paulo", "site": "https://conssanpaolo.esteri.it/" },
+    "BR-PA": { "consulado": "Brasília", "site": "https://ambbrasilia.esteri.it/" },
+    "BR-PB": { "consulado": "Recife", "site": "https://consrecife.esteri.it/" },
+    "BR-PE": { "consulado": "Recife", "site": "https://consrecife.esteri.it/" },
+    "BR-PI": { "consulado": "Recife", "site": "https://consrecife.esteri.it/" },
+    "BR-PR": { "consulado": "Curitiba", "site": "https://conscuritiba.esteri.it/" },
+    "BR-RJ": { "consulado": "Rio de Janeiro", "site": "https://consriodejaneiro.esteri.it/" },
+    "BR-RN": { "consulado": "Recife", "site": "https://consrecife.esteri.it/" },
+    "BR-RO": { "consulado": "São Paulo", "site": "https://conssanpaolo.esteri.it/" },
+    "BR-RR": { "consulado": "Brasília", "site": "https://ambbrasilia.esteri.it/" },
+    "BR-RS": { "consulado": "Porto Alegre", "site": "https://consportoalegre.esteri.it/" },
+    "BR-SC": { "consulado": "Curitiba", "site": "https://conscuritiba.esteri.it/" },
+    "BR-SE": { "consulado": "Recife", "site": "https://consrecife.esteri.it/" },
+    "BR-SP": { "consulado": "São Paulo", "site": "https://conssanpaolo.esteri.it/" },
+    "BR-TO": { "consulado": "Brasília", "site": "https://ambbrasilia.esteri.it/" }
+  }
+}
